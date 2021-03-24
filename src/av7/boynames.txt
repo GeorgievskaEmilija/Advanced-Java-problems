@@ -1,0 +1,9 @@
+sasha 1
+martin 26
+vlade 100
+luka 15
+matej 66
+vanja 67
+marko 9
+petar 2
+kiki 0
